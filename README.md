@@ -17,7 +17,7 @@ Para começar a utilizar deve-se clonar o repositório:
 ```bash
 git clone https://github.com/douglas-fabiano/express-graphql.git
 
-cd express_graphql
+cd express-graphql
 ```
 
 Depois de clonar o repositório executar os seguintes comando para utilização:
